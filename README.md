@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shekhar-h
 - 👀 I’m interested in Data Science and Machine Learning concepts using Python.
-- 🌱 I have worked on a project to predict next 90 days retail traffic at store level.
-- 🌱 I am currently focussed on time-series modelling and working on projects in the same domain.
+- 🌱 I am working on upskilling myself with Mathematics, statistics behind the ML Algorithms.
 
 <!---
 shekhar-h/shekhar-h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
